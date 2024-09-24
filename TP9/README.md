@@ -5,7 +5,8 @@ Este sitema cuenta con un menu en el cual tendremos diferentes opciones a traves
 
 ## *EXPLICACION DEL PROGRAMA*
 
-![No es posible cargar la imagen](/imagenes/image.png)
+![image](https://github.com/user-attachments/assets/0c2e1f54-e5dd-49bc-8e9d-980ad42b575c)
+
 
 Aqui, en la primera captura, observamos el menu de opciones de nuestro programa.
 Tenemos 7 opciones:
